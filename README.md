@@ -1,5 +1,4 @@
-# btc-hw
-Bitcoin and Cryptocurrency Technologies programming assignments
+# Bitcoin and Cryptocurrency Technologies programming assignments
 
 ## Assignment1 *scrooge coin*
 95 points
